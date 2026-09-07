@@ -38,7 +38,7 @@ import requests
 BASE_URL = "https://my.sdu.edu.kz/index.php"
 
 # Paste your fresh Cookie header value here (rotate the session after testing).
-COOKIE_STRING = "_ga_MZTH0GPMY5=deleted; uname=230103341; _gcl_au=1.1.1646552791.1785322797; _ym_uid=1784709330861822785; _ym_d=1785293183; _ga_S1VWDM00CX=GS2.1.s1785322797$o1$g1$t1785325623$j60$l0$h0; _ga_FJJXYR723P=GS2.1.s1785322796$o4$g1$t1785325623$j60$l0$h0; _ga_9DTH4C89K9=GS2.1.s1785322797$o5$g1$t1785325623$j60$l0$h1388764377; PHPSESSID=7si4lvvesi4ovdh8pij9hsphbq; _gid=GA1.3.1124875246.1788772361; _gat_gtag_UA_74095867_6=1; _ga_MZTH0GPMY5=GS2.1.s1788806793$o391$g1$t1788806834$j19$l0$h0; _ga=GA1.3.18860980.1705739249"  # replace me
+COOKIE_STRING = ""  # replace me
 
 # Optional: set a unique topic name (e.g. "aibek-css314-9f3k2") and install
 # the ntfy app (https://ntfy.sh) on your phone, then subscribe to that same
